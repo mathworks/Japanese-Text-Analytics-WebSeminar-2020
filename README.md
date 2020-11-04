@@ -13,4 +13,5 @@ The demo shows how to analyze Japanese text data with MATLAB. demo_part2.mlx des
 Text Analytics Toolbox product page: https://www.mathworks.com/products/text-analytics.html
 Accompanying video series: https://jp.mathworks.com/videos/series/text-mining-with-matlab-video-series.html
 
+[![View MATLABによるテキストマイニングビデオシリーズ 2020 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://jp.mathworks.com/matlabcentral/fileexchange/82230-matlab-2020)
 
